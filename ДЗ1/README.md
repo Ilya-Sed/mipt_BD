@@ -4,7 +4,7 @@
 - [x] (3 балла) Создать все таблицы в DBeaver, указав первичные ключи к таблицам, правильные типы данных, могут ли поля быть пустыми или нет (использовать команду CREATE TABLE).
 - [x] (3 балла) Загрузить данные в таблицы в соответствии с созданной структурой (использовать команду INSERT INTO или загрузить файлы, используя возможности инструмента DBeaver; в случае загрузки файлами приложить скрины, что данные действительно были залиты).
 
-**Часть первая:** [Посмотреть скриншот можно тут:](https://github.com/Ilya-Sed/mipt_BD/blob/main/%D0%94%D0%971/%D0%9E%D1%82%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D1%8F.png)
+**Часть первая:** [Посмотреть скриншот можно тут](https://github.com/Ilya-Sed/mipt_BD/blob/main/%D0%94%D0%971/%D0%9E%D1%82%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D1%8F.png)
 <br>**Вторая часть:** Из двух таблиц, я сделал таблицу с наименованием **product**, **transaction**, **customer**, **postcode** и отдельный справочник **country**
 <br> Рассмотрим эти таблицы':
 - [x] из таблицы **transaction** я выделил отдельно продукт с составным ключом из столбцов **product_id** и **list_price**, так как эти два параметра дают уникальные параметры **brand, product_line, product_class, product_size** и **standart__cost**
@@ -15,10 +15,10 @@
 <br>Тем самым, я получил таблицы **transaction**,**product**,**customer**, **postcode**, **country** в 1НФ, 2НФ и 3НФ, так как не имеют повторяющихся групп (отношений), все атрибуты зависят только от первичного ключа, не имеют транзитивных связей
 <br>
 <br>**Третья  и Четвёртая часть** 
-<br>[Посмотреть третью и четвертую часть задания можно тут:](https://github.com/Ilya-Sed/mipt_BD/blob/main/%D0%94%D0%971/%D0%A1%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%98%D0%BB%D1%8C%D1%8F%20%D0%98%D0%B3%D0%BE%D1%80%D0%B5%D0%B2%D0%B8%D1%87.sql)
+<br>[Посмотреть третью и четвертую часть задания можно тут](https://github.com/Ilya-Sed/mipt_BD/blob/main/%D0%94%D0%971/%D0%A1%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%98%D0%BB%D1%8C%D1%8F%20%D0%98%D0%B3%D0%BE%D1%80%D0%B5%D0%B2%D0%B8%D1%87.sql)
 <br> В четвертом задании, для того чтобы заполнить таблицы данными, я использовал как команду insert into, так и файл формата **csv**
 <br>Так же скриншоты по работе с SQL в DBeaver:
-<br>[Скриншот №1:](https://github.com/Ilya-Sed/mipt_BD/blob/main/%D0%94%D0%971/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%20%D1%81%20PostrageSQL%201.png)
-<br>[Скриншот №2:](https://github.com/Ilya-Sed/mipt_BD/blob/main/%D0%94%D0%971/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%20%D1%81%20PostrageSQL%202.png)
-<br>[Скриншот №3:](https://github.com/Ilya-Sed/mipt_BD/blob/main/%D0%94%D0%971/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%20csv.png)
+<br>[Скриншот №1](https://github.com/Ilya-Sed/mipt_BD/blob/main/%D0%94%D0%971/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%20%D1%81%20PostrageSQL%201.png)
+<br>[Скриншот №2](https://github.com/Ilya-Sed/mipt_BD/blob/main/%D0%94%D0%971/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%20%D1%81%20PostrageSQL%202.png)
+<br>[Скриншот №3](https://github.com/Ilya-Sed/mipt_BD/blob/main/%D0%94%D0%971/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%20csv.png)
 
