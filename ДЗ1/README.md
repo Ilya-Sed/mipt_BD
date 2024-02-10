@@ -22,4 +22,3 @@
 <br>[Скриншот №2:](https://github.com/Ilya-Sed/mipt_BD/blob/main/%D0%94%D0%971/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%20%D1%81%20PostrageSQL%202.png)
 <br>[Скриншот №3:](https://github.com/Ilya-Sed/mipt_BD/blob/main/%D0%94%D0%971/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%20csv.png)
 
-[crhby](pass)
