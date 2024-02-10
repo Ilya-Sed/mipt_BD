@@ -20,6 +20,6 @@
 <br>[Скриншот №5:](https://github.com/Ilya-Sed/mipt_BD/blob/main/%D0%94%D0%972/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%205.png)
 <br>[Скриншот №6:](https://github.com/Ilya-Sed/mipt_BD/blob/main/%D0%94%D0%972/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%206.png)
 <br>[Скриншот №7:](https://github.com/Ilya-Sed/mipt_BD/blob/main/%D0%94%D0%972/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%207.png)
-<br>[Скриншот №8:](https://github.com/Ilya-Sed/mipt_BD/blob/main/%D0%94%D0%972/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%208.png)
+<br>[Скриншот №8:](pass)
 
-[sdfsdf](pass)
+
