@@ -10,7 +10,7 @@
 <br>
 <br>
 
-[Скачать sql-срипты с решением данного домашнего задания можно тут:](https://drive.google.com/file/d/1Xl_lUPprW7DWikyx91f_T0ef9ZwnsI78/view?usp=sharing)
+Если нужно, [Скачать sql-срипты с решением данного домашнего задания можно тут:](https://drive.google.com/file/d/1Xl_lUPprW7DWikyx91f_T0ef9ZwnsI78/view?usp=sharing)
 <br>Или просто [Посмотреть sql-скрипты](https://github.com/Ilya-Sed/mipt_BD/blob/main/%D0%94%D0%972/%D0%A1%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%98%D0%BB%D1%8C%D1%8F%20%D0%98%D0%B3%D0%BE%D1%80%D0%B5%D0%B2%D0%B8%D1%87.sql)
 <br>
 <br>
