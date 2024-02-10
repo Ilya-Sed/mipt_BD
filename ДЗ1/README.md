@@ -16,6 +16,8 @@
 <br>
 <br>**Третья  и Четвёртая часть** 
 <br>[Посмотреть третью и четвертую часть задания можно тут:](https://github.com/Ilya-Sed/mipt_BD/blob/main/%D0%94%D0%971/%D0%A1%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%98%D0%BB%D1%8C%D1%8F%20%D0%98%D0%B3%D0%BE%D1%80%D0%B5%D0%B2%D0%B8%D1%87.sql)
+<br> В четвертом задании, для того чтобы заполнить таблицы данными, я использовал как команду insert into, так и файл формата **csv**
 <br>Так же скриншоты по работе с SQL в DBeaver:
 <br>[Скриншот №1:](https://github.com/Ilya-Sed/mipt_BD/blob/main/%D0%94%D0%971/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%20%D1%81%20PostrageSQL%201.png)
 <br>[Скриншот №2:](https://github.com/Ilya-Sed/mipt_BD/blob/main/%D0%94%D0%971/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%20%D1%81%20PostrageSQL%202.png)
+<br>[Скриншот №3:](https://github.com/Ilya-Sed/mipt_BD/blob/main/%D0%94%D0%971/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%20csv.png)
