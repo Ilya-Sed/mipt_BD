@@ -101,9 +101,9 @@ from (select customer.customer_id
            , min(transaction_date) as min_time
            , max(transaction_date) as max_time
            , (max(transaction_date)-min(transaction_date)) as interval
-from customer inner join transaction 
-on customer.customer_id = transaction.customer_id
-group by customer.customer_id)
+      from customer inner join transaction 
+      on customer.customer_id = transaction.customer_id
+      group by customer.customer_id)
 where interval = (select max(interval) from (select customer.customer_id 
            , first_name
            , last_name
@@ -111,7 +111,7 @@ where interval = (select max(interval) from (select customer.customer_id
            , min(transaction_date) as min_time
            , max(transaction_date) as max_time
            , (max(transaction_date)-min(transaction_date)) as interval
-from customer inner join transaction 
-on customer.customer_id = transaction.customer_id
-group by customer.customer_id));
+           from customer inner join transaction 
+           on customer.customer_id = transaction.customer_id
+           group by customer.customer_id));
 
