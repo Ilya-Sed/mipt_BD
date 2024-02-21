@@ -8,3 +8,19 @@
 - [x] Вывести имена, фамилии и профессии клиентов, между транзакциями которых был максимальный интервал (интервал вычисляется в днях) — (2 балла).
 <br>
 <br>
+Если нужно, [Скачать sql-срипты с решением данного домашнего задания можно тут](https://drive.google.com/file/d/1sukALSH5Kpp3GOcshRa0We_22KuSLe_g/view?usp=sharing)
+<br>Или просто [Посмотреть sql-скрипты](https://github.com/Ilya-Sed/mipt_BD/blob/main/%D0%94%D0%972/%D0%A1%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%98%D0%BB%D1%8C%D1%8F%20%D0%98%D0%B3%D0%BE%D1%80%D0%B5%D0%B2%D0%B8%D1%87.sql)
+<br>
+<br>
+Скриншоты выполнения заданий:
+
+<br>[Задание №1](https://github.com/Ilya-Sed/mipt_BD/blob/main/%D0%94%D0%973/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201.png)
+<br>[Задание №2](https://github.com/Ilya-Sed/mipt_BD/blob/main/%D0%94%D0%973/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%202.png)
+<br>[Задание №3](https://github.com/Ilya-Sed/mipt_BD/blob/main/%D0%94%D0%973/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%203.png)
+<br>[Задание №4.1](https://github.com/Ilya-Sed/mipt_BD/blob/main/%D0%94%D0%973/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%204.1.png)
+<br>[Задание №4.2](https://github.com/Ilya-Sed/mipt_BD/blob/main/%D0%94%D0%973/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%204.2.png)
+<br>[Задание №5.1](https://github.com/Ilya-Sed/mipt_BD/blob/main/%D0%94%D0%973/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%205.1.png)
+<br>[Задание №5.2](https://github.com/Ilya-Sed/mipt_BD/blob/main/%D0%94%D0%973/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%205.2.png)
+<br>[Задание №5.3](https://github.com/Ilya-Sed/mipt_BD/blob/main/%D0%94%D0%973/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%205.3.png)
+<br>[Задание №6](https://github.com/Ilya-Sed/mipt_BD/blob/main/%D0%94%D0%973/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%206.png)
+<br>[Задание №7](https://github.com/Ilya-Sed/mipt_BD/blob/main/%D0%94%D0%973/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%207.png)
